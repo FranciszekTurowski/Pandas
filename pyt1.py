@@ -53,3 +53,10 @@
 #      name = input("Jak masz na imię? ")
 #      print("O witaj {name}")
             
+            
+# for _ in range (0,5):
+#     print("Hello world")            
+    
+    
+# for letter in "Kamil":
+#     print(letter)    
